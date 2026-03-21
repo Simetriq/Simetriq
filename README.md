@@ -45,8 +45,9 @@ Currently finishing my degree in Software Development · Graduating December 202
 
 ## 📫 Let's connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/tu-usuario-aqui)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-natanael-zigaran-595b44321/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:natanaelzigaran@gmail.com)
+natanaelzigaran@gmail.com
 
 ---
 
