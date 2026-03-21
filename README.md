@@ -37,7 +37,7 @@ Currently finishing my degree in Software Development · Graduating December 202
 ## 🚀 What I'm working on
 
 - 🔧 Building REST APIs with **Node.js** and **PostgreSQL**
-- 📘 Deepening my knowledge of **Go** for high-performance services
+- 📘 Learning **Go** for high-performance services
 - 🐳 Learning **Docker** for containerized deployments
 - 📂 Expanding my portfolio with real-world backend projects
 
