@@ -25,15 +25,6 @@ Currently finishing my degree in Software Development · Graduating December 202
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="left">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Simetriq&show_icons=true&hide_border=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Simetriq&layout=compact&hide_border=true&langs_count=6" />
-</p>
-
----
-
 ## 🚀 What I'm working on
 
 - 🔧 Building REST APIs with **Node.js** and **PostgreSQL**
